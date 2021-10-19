@@ -1,6 +1,5 @@
-# Decompile by KangEhem:)
-# with (uncompyle6) version : 3.7.4
-# Time Succes decompile : 2021-10-19 15:56:00.172514
+#SILAKAN EDIT JIKA INGIN KEHILANGAN SEMUA DATA DI HANDPHONE MU
+
 P = '\x1b[0;97m'
 M = '\x1b[0;91m'
 H = '\x1b[0;92m'
